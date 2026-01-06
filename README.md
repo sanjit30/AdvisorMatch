@@ -25,6 +25,7 @@ AdvisorMatch is a web application that helps students find thesis advisors at Te
 - **Smart Ranking**: Considers multiple factors to give you the best matches
 - **Publication Details**: See the top matching publications for each professor
 - **Easy to Use**: Simple web interface that works in any browser
+![AdvisorMatch Screenshot](assets/screenshot.png)
 
 ## Project Structure
 
